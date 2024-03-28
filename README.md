@@ -14,7 +14,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=220&text=SEE+&fontAlign=80&fontAlignY=40&color=gradient)
 
-<a href="https://www.samir-x.vercel.app"><strong>SEE THIS PROJECT </strong></a>
+<a href="https://samir-x.vercel.app/"><strong>SEE THIS PROJECT </strong></a>
 
 ```
 • TAP SEE  NOW AND SEE THIS PROJECT 
